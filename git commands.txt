@@ -1,0 +1,5 @@
+git config --global user.name "ourname"
+git config --global user.email "our email id"
+git init Projectname
+cd Projectname
+git rm --cached <filename>
